@@ -9,8 +9,8 @@ It is organized by a team of four passionate students of **Delhi Technical Campu
 
 
 ## Team members
-> Shivanshu Shukla
-> MD Shamsuzzama Siddique
-> Arpit Kumar Singh
-> Sandesh Verma
+> Shivanshu Shukla.
+> MD Shamsuzzama Siddique.
+> Arpit Kumar Singh.
+> Sandesh Verma.
 
