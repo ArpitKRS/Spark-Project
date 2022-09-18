@@ -17,3 +17,5 @@ It is organized by a team of four passionate students of **Delhi Technical Campu
 > 
 > Sandesh Verma.
 
+## How to visit the website using GitHub
+
