@@ -18,4 +18,8 @@ It is organized by a team of four passionate students of **Delhi Technical Campu
 > Sandesh Verma.
 
 ## How to visit the website using GitHub
+1. Go to "Settings" option.
+2. Find "GitHub Pages" and click on the domain name link. (If domain name is not visible, click on "Branch" and switch it to "main". The link will appear.)
+
+*Using GitHub for hosting your static website is as easy as that!*
 
